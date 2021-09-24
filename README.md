@@ -1,16 +1,16 @@
-### Hi there 👋
+# Olá, eu sou Gabriel!👋😜
 
-<!--
-**GabrielFDJ/GabrielFDJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/GabrielFDJ">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielFDJ&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielFDJ&layout=compact&langs_count=7&theme=merko"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Formação
+-   👨‍🎓  Estudante de Análise e Desenvolvimento de sistemas, atualmente estou cursando o 3° semestre.
+-  🌱Atualmente estou aprendendo Java
+-  🎯  Interesse: Java, Python, C .
+
+### Contato  📱
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Ferreira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gabriel-ferreira-447998140/)](https://www.linkedin.com/in/gabriel-ferreira-447998140/) 
