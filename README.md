@@ -3,8 +3,11 @@
 
 <div align="center">
   <a href="https://github.com/GabrielFDJ">
+  <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielFDJ&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielFDJ&layout=compact&langs_count=7&theme=merko"/>
+  </p>
 </div>
 
 ### Formação
